@@ -6,5 +6,5 @@ Efficiency benchmark carried out with 8612820 characters (python2 -- 3.316404 se
 
 Usage 
     python sera_mapper_v1.py -f file_name to for file conversion 
-		python sera_mapper_v1.py -s \'your string here \' for direct string conversion
+   python sera_mapper_v1.py -s \'your string here \' for direct string conversion
 
